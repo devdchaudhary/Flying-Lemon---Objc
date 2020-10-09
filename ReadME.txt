@@ -22,9 +22,4 @@ Steps to run and build the application:
 * No additional steps to build and test the app. Just build and run it.
 * Not meant to be played in landscape.
 
-https://user-images.githubusercontent.com/52855516/95572615-d8baab00-0a47-11eb-9fa7-c5517e7de300.png
-
-https://www.google.com/search?client=safari&rls=en&q=!%5BiPhone+4+7+inch%5D(https://user-images.githubusercontent.com/52855516/95572622-dc4e3200-0a47-11eb-9ba9-a8d6764bdd19.png)&ie=UTF-8&oe=UTF-8
-
-https://www.google.com/search?client=safari&rls=en&q=!%5BiPhone+4+7+inch%5D(https://user-images.githubusercontent.com/52855516/95572670-eb34e480-0a47-11eb-9e0b-7bc28d7854b8.png)&ie=UTF-8&oe=UTF-8
 
